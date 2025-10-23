@@ -1,0 +1,16 @@
+{"Rodzaj Transportu":"xyz",
+"Liczba pojazdów": 2,
+"xyz": 2.2,
+"Fajne": true,
+"Kolory": ["zielony", "biały"],
+"Popularne linie": {
+    "bus": 179,
+    "tram": 50
+},
+"Liczba pas": 22222,
+"Opinia": "Kochamy KMM"
+
+
+
+
+}
