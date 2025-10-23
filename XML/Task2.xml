@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<komunikacja>
+    <Tramwaj1>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+    </Tramwaj1>
+    <Tramwaj2>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+    </Tramwaj2>
+    <Tramwaj3>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+    </Tramwaj3>
+    <Tramwaj4>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+    </Tramwaj4>
+    <Tramwaj5>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+    </Tramwaj5>
+    <Tramwaj6>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+        <marka></marka>
+    </Tramwaj6>
+</komunikacja>
+    
